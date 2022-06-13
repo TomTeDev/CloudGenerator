@@ -1,0 +1,7 @@
+name: CloudGenerator
+version: '${project.version}'
+main: mucho.more.CloudGenerator
+api-version: 1.18
+load: POSTWORLD
+authors: [ Muchomore ]
+description: Plugin that generates cloud
